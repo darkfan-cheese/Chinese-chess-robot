@@ -1,0 +1,2 @@
+http://www.chessdb.cn/chessdb.php?action=queryall&showall=0&learn=1&egtbmetric=dtm&board=r1bakabnr/9/1c5c1/p1p1n1p1p/9/9/P1P1P1P1P/4C4/9/RNBAKABNR b
+r1bakabnr/9/1c5c1/p1p1n1p1p/9/9/P1P1P1P1P/4C4/9/RNBAKABNR b
